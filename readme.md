@@ -37,7 +37,9 @@
 
 ## 📍 Overview
 
-NLW-Pocket-Mobile is a cutting-edge solution that streamlines the browsing and redemption of coupons at nearby markets. With intuitive features like dynamic market views and seamless QR code scanning, this app enhances user experience and promotes local business engagement. Ideal for shoppers seeking convenient discounts and businesses looking to boost foot traffic.
+Nearby is a cutting-edge solution that streamlines the browsing and redemption of coupons at nearby markets. With intuitive features like dynamic market views and seamless QR code scanning, this app enhances user experience and promotes local business engagement. Ideal for shoppers seeking convenient discounts and businesses looking to boost foot traffic.
+
+<img src="./.github/nearby.jpg" width="70%">
 
 ---
 
